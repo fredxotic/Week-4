@@ -1,4 +1,4 @@
-# AI in Software Engineering - Week 4 Assignment
+# AI For Software Engineering - Week 4 Assignment
 
 This repository contains my submission for the Week 4 assignment on AI applications in software engineering, featuring theoretical analysis, practical implementations, and ethical reflections.
 
