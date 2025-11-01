@@ -1,6 +1,6 @@
 # AI For Software Engineering - Week 4 Assignment
 
-This repository contains my submission for the Week 4 assignment on AI applications in software engineering, featuring theoretical analysis, practical implementations, and ethical reflections.
+This repository contains Our submission for the Week 4 assignment on AI applications in software engineering, featuring theoretical analysis, practical implementations, and ethical reflections.
 
 ## 📁 Repository Structure
 
@@ -73,8 +73,6 @@ npx playwright test
 
 ### Task 3 - Predictive Model
 Open `Task3-breast_cancer_prediction.ipynb` in Jupyter Notebook
-
-## 📝 Submission Details
 
 ## Group Members: 
 - Fred Kaloki
