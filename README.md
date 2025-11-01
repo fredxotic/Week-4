@@ -76,6 +76,10 @@ Open `Task3-breast_cancer_prediction.ipynb` in Jupyter Notebook
 
 ## 📝 Submission Details
 
-- **Student**: Fred Kaloki
-- **Course**: AI in Software Engineering
+## Group Members: 
+- Fred Kaloki
+- Mary Wairimu
+- Kelvin Karani
+- Gift Odii Chinenye
+- Rivaldo Ouma
 ---
